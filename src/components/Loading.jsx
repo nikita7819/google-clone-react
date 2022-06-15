@@ -1,5 +1,5 @@
 import React from 'react'
-import {BallTriangle, Circles, Hearts, Oval, Rings, TailSpin, ThreeDots} from 'react-loader-spinner';
+import {TailSpin} from 'react-loader-spinner';
 
 
 const Loading = () => {
